@@ -1,2 +1,3 @@
-# hyper-data-pipeline-igdc
-Automated issue comment bot repository
+# Hyper Data Pipeline Igdc
+
+Automated issue comment bot repository.
